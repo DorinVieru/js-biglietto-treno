@@ -17,6 +17,6 @@ BONUS
 3 - Calcolare il prezzo del biglietto secondo le seguenti regole:
     3.a - 0.21 € al km
     3.b - struttura if per 20% di sconto per i minorenni
-    3.c - struttura if else per prezzo pieno per coloro compresi tra 19 e 64 annii
+    3.c - struttura else if per prezzo pieno per coloro compresi tra 19 e 64 annii
     3.d - struttura else per 40% di sconto per gli over 65
 4 - console.log per visualizzare il prezzo finale, con massimo due decimali
